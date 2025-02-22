@@ -2,6 +2,8 @@
 
 ## 📌 Overview  
 This project removes backgrounds from images using Python and OpenCV. It leverages image processing techniques and deep learning models to accurately extract the foreground while eliminating the background.  
+# 🚀 Live Preview
+https://background-remover-python.streamlit.app/
 
 ## 🔍 Features  
 - Removes background from images efficiently  
