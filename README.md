@@ -6,7 +6,7 @@ This project removes backgrounds from images using Python and OpenCV. It leverag
 ## 🔍 Features  
 - Removes background from images efficiently  
 - Supports multiple image formats (JPG, PNG, etc.)  
-- Uses OpenCV and image processing techniques  
+- Uses OpenCV and image processing techniques.  
 - Can be extended with deep learning-based methods for better accuracy  
 
 ## 📂 Repository Structure  
